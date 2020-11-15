@@ -4,7 +4,7 @@ import os
 from collections import defaultdict
 from prettytable import PrettyTable
 from typing import Dict, DefaultDict, Tuple, List, Iterator, Set
-from HW08_Yash_Navadiya import file_reader
+from Student_Repository_Yash_Navadiya import file_reader
 
 
 class Repository:
